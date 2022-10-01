@@ -1,4 +1,4 @@
-const API_URL = `https://api.themoviedb.org/3/discover/movie?api_key=8af333cf7a3ba33ba4cea14d18e4ff13`
+const API_URL = `https://api.themoviedb.org/3/discover/movie?api_key=`
 
 const getImagePath = (path) =>
   `https://image.tmdb.org/t/p/w440_and_h660_face${path}`;
